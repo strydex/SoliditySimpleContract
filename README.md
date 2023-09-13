@@ -1,4 +1,4 @@
-# SoliditySimpleContract
+# Solidity Simple Contract
 This is the code written in Solidity I used to deploy my own smart-contract to Base blockchain testnet and create STRYCOINs
 
 If you want to create your own ERC-20 crypto tokens just follow these steps:
