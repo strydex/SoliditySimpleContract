@@ -3,7 +3,7 @@ This is the code written in Solidity I used to deploy my own smart-contract to B
 
 If you want to create your own ERC-20 crypto tokens just follow these steps:
 
-1. Import this code into Solidity compiler as a strycoin.sol file (remix.ethereum.org)
+1. Import this code into Solidity compiler as a strycoin.sol file ( https://remix.ethereum.org )
 2. When creating new workspace in a Solidity compiler choose OpenZeppelin ERC-20 standart
 3. Click OK, change Token ticker from STRC to your own (10th string), it can be literally anything, like YEOF or FELKM. Whatever you choose
 4. Also change Name of a contract (9th string) and decimals (amount of symbols after comma from 18 to anything of your choice
